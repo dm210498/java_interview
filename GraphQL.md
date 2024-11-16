@@ -111,5 +111,3 @@ subscription OnNewMessage {
 ### 19. **What are the benefits of using GraphQL over traditional REST APIs?**
 
  GraphQL offers more efficient data fetching, strong typing, and the ability to fetch related data in a single request, reducing over-fetching and under-fetching. **Justification:** Understanding these benefits helps in advocating for the use of GraphQL in appropriate scenarios.
-
-### 20. **Describe how to implement
